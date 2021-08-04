@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          aleluiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
+          aleluiiiiiiiiiiiiiia.
         </p>
         <a href="https://www.google.com.br" target="_blank">google</a>
       </header>
